@@ -4,3 +4,5 @@ ENV course="Devops with aws" \
     Duration="120 hrs"\
     source="online" \
     url='join devops.com'
+CMD ["sleep","100"]
+
