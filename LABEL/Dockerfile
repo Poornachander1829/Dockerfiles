@@ -1,5 +1,5 @@
 FROM almalinux:9
-LABEL author= "Poornachander" \
+LABEL author="Poorna chander" \
       Company="Devops practice" \
-      topic= "docker files" \
+      topic="docker files" \
       hours="120.00"
